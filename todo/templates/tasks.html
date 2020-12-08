@@ -1,0 +1,18 @@
+{% if todos | length>0 %}
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Task</th>
+                <th>Priority</th>
+                <th>Due</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for todo in todos %}
+            <tr>
+                <td>{{todo.task}}</td>
+                <td>{{ 'Low' if todo.priority==0 else 'Medium' if todo.priority==1 }}</td>
+                <td>{{ todo.due | formatdatetime }}</td>
+            </tr>
+            {% endfor %} 
