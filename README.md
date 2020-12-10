@@ -20,7 +20,7 @@
 
 # Block-Diagram
   
-   https://drive.google.com/file/d/1onTdJslfOpb6xO9-TqLjzwhAg3ZDBn-g/view
+   file:///C:/Users/yagnam.jaya%20surekha/Downloads/database.png
   
 # YOUTUBE - Video
 [![YOUTUBE-LINK](https://img.youtube.com/vi/UtVY2pSGWe4/0.jpg)](https://www.youtube.com/watch?vUtVY2pSGWe4-IQ)
