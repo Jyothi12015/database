@@ -22,6 +22,4 @@
   ![Block_Diagram](https://raw.githubusercontent.com/Jyothi12015/database/main/database.png)
   
 # YOUTUBE - Video
-[![YOUTUBE-LINK](https://img.youtube.com/vi/UtVY2pSGWe4/0.jpg)](https://www.youtube.com/watch?vUtVY2pSGWe4-IQ)
-
-
+[![youtube video link](https://img.youtube.com/vi/UtVY2pSGWe4/0.jpg)](https://www.youtube.com/watch?v=UtVY2pSGWe4)
